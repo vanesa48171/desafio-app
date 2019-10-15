@@ -98,12 +98,4 @@ INSERT INTO edades values
   (2, 2, 2, '2019/09/19','SI','SI'),
   (3, 3, 2, '2019/09/19','SI','SI');
   
- 
-select * from inscripciones; 
-select * from lugares; 
-select * from participantes;
-<<<<<<< HEAD
-select * from edades;
-/*drop database desafioapp;*/
-=======
->>>>>>> 96e5231ce6944f82b7656b45bb29d5f8a0f97323
+
